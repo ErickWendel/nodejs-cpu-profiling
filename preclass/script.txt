@@ -1,0 +1,6 @@
+https://github.com/ErickWendel/nodejs-apps-with-issues
+https://discoveryjs.github.io/cpupro/
+https://www.npmjs.com/package/autocannon
+https://github.com/nodejs/node/pull/44250
+https://www.npmjs.com/package/autocannon
+https://higlobe.com/pt-br?hgcode=ERICKWENDEL20&utm_source=influencers&utm_medium=influencers&utm_campaign=youtube-11-22

@@ -1,5 +1,4 @@
 # Logs
-*.cpuprofile
 logs
 *.log
 npm-debug.log*
